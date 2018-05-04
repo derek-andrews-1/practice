@@ -1,2 +1,2 @@
 # practice
-First Proeject
+First Project
